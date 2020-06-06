@@ -13,11 +13,11 @@ Modeling uncertainity in real-time is essential for robots to operate in unknown
 **[Full paper with appendix](url_todo)**
 
 <p align="center">
-  <img width="460" width="800" src="rss2020_pot.jpg">
+  <img width="800" src="rss2020_pot.jpg">
 </p>
 
 <p align="center">
-  <img width="460" width="600" src="rss2020_pot.gif">
+  <img width="600" src="rss2020_pot.gif">
 </p>
 
 **Instractions to run the code**: TODO
