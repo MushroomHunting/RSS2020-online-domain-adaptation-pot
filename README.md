@@ -12,11 +12,20 @@ Modeling uncertainity in real-time is essential for robots to operate in unknown
 **Video**: [https://youtu.be/qLv0mM9Le8E](https://youtu.be/qLv0mM9Le8E)
 **[Full paper with appendix](url_todo)**
 
-<img src="rss2020_pot.jpg" width="600">
-<img src="rss2020_pot.gif" width="600">
+<p align="center">
+  <img width="460" width="800" src="rss2020_pot.jpg">
+</p>
 
-**Instractions to run the code**:
+<p align="center">
+  <img width="460" width="600" src="rss2020_pot.gif">
+</p>
 
+**Instractions to run the code**: TODO
+```
+test.py
+```
+
+**BibTeX**:
 ```
 @inproceedings{tompkins2020domain,
   title={Online Domain Adaptation for Occupancy Mapping},
