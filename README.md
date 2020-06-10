@@ -8,7 +8,7 @@ Modeling uncertainity in real-time is essential for robots to operate in unknown
 ### Backgroud
 * [Bayesian Hilbert Mapping (BHM)](https://github.com/RansML/Bayesian_Hilbert_Maps) is a technique that uses variational inference to estimate uncertainity in occupancy mapping. It uses kernels to project LIDAR data into a high dimensional linear feature space to capture nonlinear spatial patterns and perferm Bayesian inference to model uncertainty. 
 * [Automorphing Bayesian Hilbert Maps (ABHM)](https://github.com/MushroomHunting/CoRL2018-automorphing-kernels-for-nonstationarity) learns all geometry-dependent parameters and hyperparameters of BHM in an offline fashion. 
-* This paper proposes a technique to online estimate all the parameters and hyperparameters merely by comparing the similarity among environments. 
+* This paper proposes a technique for online estimation of all the parameters and hyperparameters merely by comparing the similarity among environments. 
 
 **Video**: [https://youtu.be/qLv0mM9Le8E](https://youtu.be/qLv0mM9Le8E)
 
