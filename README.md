@@ -12,12 +12,19 @@ Modeling uncertainity in real-time is essential for robots to operate in unknown
 
 **Video**: [https://youtu.be/qLv0mM9Le8E](https://youtu.be/qLv0mM9Le8E)
 
-<p align="center">
-  <img width="800" src="rss2020_pot.jpg">
-</p>
-
+**Carla Simulation of POT** 
 <p align="center">
   <img width="600" src="rss2020_pot.gif">
+</p>
+
+**Optimal Transport** 
+<p align="center">
+  <img width="600" src="ot_idea_animation.gif">
+</p>
+
+**Domain adaptation using Parameter Optimal Transport (POT)** 
+<p align="center">
+  <img width="800" src="rss2020_pot.jpg">
 </p>
 
 **Instructions to run the code**: TODO
