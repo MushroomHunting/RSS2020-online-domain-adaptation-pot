@@ -10,7 +10,8 @@ Modeling uncertainity in real-time is essential for robots to operate in unknown
 * [Automorphing Bayesian Hilbert Maps (ABHM)](https://github.com/MushroomHunting/CoRL2018-automorphing-kernels-for-nonstationarity) learns all geometry-dependent parameters and hyperparameters of BHM in an offline fashion. 
 * This paper proposes a technique for online estimation of all the parameters and hyperparameters merely by comparing the similarity among environments. 
 
-**Video**: [https://youtu.be/qLv0mM9Le8E](https://youtu.be/qLv0mM9Le8E)
+**Talk Video**: [https://youtu.be/-qRWH9mXFy8](https://youtu.be/-qRWH9mXFy8)
+**Demo Video**: [https://youtu.be/qLv0mM9Le8E](https://youtu.be/qLv0mM9Le8E)  
 
 **Carla Simulation of POT** 
 <p align="center">
